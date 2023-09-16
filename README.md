@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working as Test Engineer 
 - 🌱 I’m currently learning Python, Robot Framework, Unix, GitHub, Bash
-- 📖 Telecommunication / Computer Science 
+- 📖 Telecommunication / Computer Science
+- 💬 English / German / Polish
 
 🔥 If you know you can do better, don't be sorry, just do better 🔥
 
