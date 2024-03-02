@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working as Test Engineer 
-- 🌱 I’m currently learning Python, Robot Framework, Unix, GitHub, Bash
+- 🌱 Tech-stack: Python, Robot Framework, Unix, GitHub, Bash
 - 📖 Telecommunication / Computer Science
 - 💬 English / German / Polish
 
