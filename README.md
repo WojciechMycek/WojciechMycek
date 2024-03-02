@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working as Test Engineer 
+- 🔭 Test Engineer 
 - 🌱 Tech-stack: Python, Robot Framework, Unix, GitHub, Bash
 - 📖 Telecommunication / Computer Science
 - 💬 English / German / Polish
