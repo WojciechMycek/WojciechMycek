@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 Test Engineer 
-- 🌱 Tech-stack: Python, Robot Framework, Unix, GitHub, Bash
+- 🌱 Tech-stack: Python, Robot Framework, Unix, GitHub, Bash, Linux envs, Jenkins
 - 📖 Telecommunication / Computer Science
 - 💬 English / German / Polish
 
