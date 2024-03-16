@@ -1,11 +1,12 @@
 ### Hi there 👋
 - 🔭 Test Engineer 
-- 🌱 Tech-stack: Python, Robot Framework, Unix, GitHub, Bash, Linux envs, Jenkins, PowerShell
 - 📖 Telecommunication / Computer Science
 - 💬 English / German / Polish
 
 🔥 If you know you can do better, don't be sorry, just do better 🔥
 
+# 🌱 Tech-stack:
+  
 ![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
