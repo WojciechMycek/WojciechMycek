@@ -3,7 +3,7 @@
 - 📖 Telecommunication / Computer Science
 - 💬 English / German / Polish
 
-🔥 If you know you can do better, don't be sorry, just do better 🔥
+🔥 If you know you can do better, don't be sorry, just do better. 🔥
 
 # 🌱 Tech-stack:
   
