@@ -5,7 +5,7 @@
 
 🔥 If you know you can do better, don't be sorry, just do better. 🔥
 
-# 🌱 Tech-stack:
+# 🌱 Tech-stack
   
 ![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
